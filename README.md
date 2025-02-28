@@ -4,8 +4,6 @@
 
 Record your screen into an animated GIF, all you need is a browser!
 
-👉 [gifcap.dev](https://gifcap.dev/)
-
 [![gifcap screenshot](https://user-images.githubusercontent.com/22350/119881198-4d861b00-bf2d-11eb-866b-9607b6da676a.png)](https://gifcap.dev/)
 
 **Features:**
